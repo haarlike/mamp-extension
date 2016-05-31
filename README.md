@@ -12,4 +12,4 @@
 2. Add `extension=xxx.so` to the end of `php.ini` (Open MAMP click on File → Edit Template → PHP → PHP 7.0.0 php.ini)
 3. **Restart** MAMP.
 
-> phalcon.so redis.so memcache.so swoole.so
+> redis.so memcache.so swoole.so
