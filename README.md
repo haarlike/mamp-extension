@@ -1,4 +1,4 @@
-# mamp-extension
+# mamp-extension for MAMP PRO 3.X
 ##5.6.10
 
 1. **Copy** `xxx.so` to `/Applications/MAMP/bin/php/php5.6.10/lib/php/extensions/no-debug-non-zts-20121212`
